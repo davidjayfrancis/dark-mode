@@ -6,6 +6,8 @@ This project allows you to practice the concepts and techniques learned in this 
 
 **Read these instructions carefully. Understand exactly what is expected _before_ starting this project.**
 
+**FYI: DAVID FRANCIS ROCKS!**
+
 ### Commits
 
 Commit your code regularly and meaningfully. This helps both you and your team lead in case you ever need to return to old code for any number of reasons.
@@ -38,9 +40,9 @@ Follow these steps for completing your project.
 - [ ] Build a custom hook that let's you save data to localStorage
 - [ ] Build a second custom hook that sets the `dark-mode` class on the body element
 - [ ] Compose your two new hooks together to be able to set and persist your user's dark mode preference in your app
-<!--
+  <!--
 - [ ] Write tests that use mocks and spies to handle dependencies in your components
--->
+      -->
 
 ## STEP 1 - useLocalStorage
 
